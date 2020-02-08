@@ -17,7 +17,7 @@
  */
 metadata 
 {
-	definition(name: "HubConnect Arrival Sensor", namespace: "shackrat", author: "Steve White", ocfDeviceType: "oic.d.sensor", importUrl: "https://raw.githubusercontent.com/HubitatCommunity/HubConnect/master/SmartThings/DeviceTypes/HubConnect-Arrival-Sensor.groovy")
+	definition(name: "HubConnect Arrival Sensor", namespace: "ogiewon", author: "Steve White", ocfDeviceType: "oic.d.sensor", importUrl: "https://raw.githubusercontent.com/HubitatCommunity/HubConnect/master/SmartThings/DeviceTypes/HubConnect-Arrival-Sensor.groovy")
 	{
 		capability "Presence Sensor"
 		capability "Tone"
